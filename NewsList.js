@@ -20,7 +20,8 @@
         "writer": "EzDevelop",
         "img": "https://th.bing.com/th/id/OIG.9RHpTCevS.3sJ6Da9B7_?w=270&h=270&c=6&r=0&o=5&pid=ImgGn",
         "date": "16 شهریور 1402",
-        "time_stamp": 1694032594
+        "time_stamp": 1694032594,
+        "id": 4342
     },
     {
         "title": "here is title",
@@ -29,7 +30,8 @@
         "writer": "Smth",
         "img": "Smth",
         "date": "d",
-        "time_stamp": 1694032594
+        "time_stamp": 1694032594,
+        "id": 3
     },
     /*
         {
@@ -39,7 +41,8 @@
             "writer": "Smth",
             "img": "Smth",
             "date": "d",
-            "time_stamp": 293483948
+            "time_stamp": 293483948,
+            "id": 4342
         }
     */
 ]
