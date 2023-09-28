@@ -1,5 +1,10 @@
 {
   "latest": "1.1",
   "mandatory": false,
-  "changes_log": "* Addeed Update check feature\n* App performance improvement"
+  "images": [
+    "https://wallpapercave.com/wp/wp12305871.png",
+    "https://wallpapers.com/images/hd/minecraft-pictures-zm3d6dyckym9lpae.jpg",
+    "https://i.pinimg.com/736x/73/11/78/7311782d301f2ba59c47dc01ddf8cd72.jpg"
+  ],
+  "changes_log": "• Added sliders for app updates.\n• Fixed some bugs\n• test\n• test\n• test\n• test\n• test\n• test\n• test\n• test\n• test"
 }
