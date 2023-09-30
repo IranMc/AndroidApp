@@ -1,11 +1,11 @@
 {
-  "latest": "1.1",
-  "mandatory": false,
+  "latest": "1.0.1",
+  "mandatory": true,
   "images": [
     "https://wallpapercave.com/wp/wp12305871.png",
     "https://wallpapers.com/images/hd/minecraft-pictures-zm3d6dyckym9lpae.jpg",
-    "https://github.com/IranMc/AndroidApp/blob/main/img/1992823h9hiu3.gif",
-    "https://i.pinimg.com/originals/59/0d/73/590d73050637dcb12e9af999f8d6437b.gif"
+    "https://cutewallpaper.org/28/cute-minecraft-wallpaper-friends/minecraft-fox-wallpapers-top-free-minecraft-fox-backgrounds--wallpaperaccess.png",
+    "https://wallpapers.com/images/featured/1280x720-minecraft-an8pm9v8gg194ngb.jpg"
   ],
   "changes_log": "• Added sliders for app updates.\n• Fixed some bugs\n• test\n• test\n• test\n• test\n• test\n• test\n• test\n• test\n• test"
 }
